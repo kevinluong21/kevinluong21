@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 My name is Kevin ✨ and I'm a second-year undergraduate Computer Science 💻 student at the University of Ottawa!
 
+<img alt="Cat driving" src="https://media.tenor.com/5YWkNlUr8qkAAAAC/cat-driving.gif">
+
 <h3 align="left">Send me a message!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kevinluong16/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
