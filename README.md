@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Kevin (he/him) ✨ and I'm a third-year undergraduate Computer Science 💻 student at the University of Ottawa!
+My name is Kevin (he/him) ✨ and I'm a fourth-year undergraduate Computer Science 💻 student at the University of Ottawa!
 
 <img alt="Cat driving" src="https://media.tenor.com/5YWkNlUr8qkAAAAC/cat-driving.gif">
 
